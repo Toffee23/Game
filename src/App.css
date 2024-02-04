@@ -1,6 +1,9 @@
 *{
   background-color: black;
 }
+.long-input{
+  min-width: 50%;
+}
 .remove-arrow::-webkit-inner-spin-button, .remove-arrow::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
